@@ -1,1 +1,1 @@
-https://github.com/iMyMonkey/wedding.git
+https://github.com/iMyMonkey/wedding/index.md
